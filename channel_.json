@@ -1,16 +1,7 @@
 {
   
   "Categories":[
-    {
-      "CategoryName":"football Channels",
-      "ChannelsList":[
-        {
-          "ChannelName":"working now",
-          "ChannelDescription":"Brazil vs england",
-          "ChannelLogo":"https://png.pngtree.com/png-clipart/20201208/original/pngtree-red-white-twitch-live-streaming-pop-up-png-image_5538636.jpg",
-          "ChannelLink":"https://reels2watch.com/hls/s10.m3u8",
-          "Play_In":"app"
-        },
+    
         {
           "ChannelName":"working",
           "ChannelDescription":"test1channelpos1",
@@ -18,13 +9,7 @@
           "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
           "Play_In":"player"
         },
-        {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://nflarcadia.xyz/hls/s9.m3u8",
-          "Play_In":"app"
-        }
+      
         ]
 
     }
