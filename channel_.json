@@ -3,11 +3,11 @@
   "Categories":[
     
         {
-          "ChannelName":"working",
-          "ChannelDescription":"test1channelpos1",
-          "ChannelLogo":"https://www.thesun.co.uk/wp-content/uploads/2021/10/4144b33b-50bb-4031-93f5-33d97babb774.jpg",
-          "ChannelLink":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "Play_In":"player"
+          "ChannelName":"working now",
+          "ChannelDescription":"Algeria vs Mozambique",
+          "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
+          "ChannelLink":"https://sr.live12.ir/hls2/syria.m3u8",
+          "Play_In":"app"
         },
       
         ]
