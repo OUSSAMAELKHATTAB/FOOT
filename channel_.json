@@ -1,7 +1,9 @@
 {
   
   "Categories":[
-    
+     {
+      "CategoryName":"Football live",
+      "ChannelsList":[
         {
           "ChannelName":"working now",
           "ChannelDescription":"Algeria vs Mozambique",
