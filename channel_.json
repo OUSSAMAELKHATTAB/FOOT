@@ -5,26 +5,14 @@
       "CategoryName":"Football live",
       "ChannelsList":[
         {
-          "ChannelName":"working now",
-          "ChannelDescription":"Greece vs France",
+          "ChannelName":"Pause",
+          "ChannelDescription":"test vs test",
           "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
           "ChannelLink":"https://ymy7utmtwxtsb8p2.cdnreinforce.net:8443/hls/ltdk70mice.m3u8?s=OGpFVrf1YweyfX2YgpS1MA&e=1700620694",
-          "Play_In":"app"
+          "Play_In":"player"
         },
-      {
-          "ChannelName":"working now",
-          "ChannelDescription":"Gibraltar vs Netherlands",
-          "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
-          "ChannelLink":"https://ymy7utmtwxtsb8p2.cdnreinforce.net:8443/hls/ltdk70mice.m3u8?s=OGpFVrf1YweyfX2YgpS1MA&e=1700620694",
-          "Play_In":"app"
-        },
-       {
-          "ChannelName":"working now",
-          "ChannelDescription":"Croitia vs Armenia",
-          "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
-          "ChannelLink":"https://ymy7utmtwxtsb8p2.cdnreinforce.net:8443/hls/umwpfzr4g6gdf.m3u8?s=Zh38sPxPcoQZcSlSDi5pfw&e=1700621256",
-          "Play_In":"app"
-        },
+      
+        
       ]
 
     }
