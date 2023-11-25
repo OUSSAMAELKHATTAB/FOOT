@@ -5,13 +5,7 @@
       "CategoryName":"Football live",
       "ChannelsList":[
         
-   {
-          "ChannelName":"working now",
-          "ChannelDescription":"Barcelona vs Rayo Vallecano",
-          "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
-          "ChannelLink":"https://jau7yuwm23cae5nc.cdnreinforce.net:8443/hls/dw4k0efjo1w.m3u8?s=9kp2MSpIh23ey0NmpgtMUQ&e=1700940262",
-          "Play_In":"app"
-        },
+   
      
    {
           "ChannelName":"working now",
@@ -20,22 +14,16 @@
           "ChannelLink":"https://jau7yuwm23cae5nc.cdnreinforce.net:8443/hls/t8v9vt5bg.m3u8?s=_9hdNvr_Utjpnu-rdUU6zA&e=1700944265",
           "Play_In":"app"
         },
-     {
-          "ChannelName":"working now",
-          "ChannelDescription":"Morocco  vs Mali",
-          "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
-          "ChannelLink":"https://stream.live12.ir/hls2/syria1.m3u8",
-          "Play_In":"app"
-        },
+    
         {
-          "ChannelName":"16:00",
+          "ChannelName":"working now",
           "ChannelDescription":"Al Hazem  vs Al Hilal",
           "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
-          "ChannelLink":"https://stream.live12.ir/hls2/syria1.m3u8",
-          "Play_In":"player"
+          "ChannelLink":"https://jau7yuwm23cae5nc.cdnreinforce.net:8443/hls/t8v9vt5bg.m3u8?s=Pm7awylkYLnA9mIYSDXgOQ&e=1700944305",
+          "Play_In":"app"
         },
       {
-          "ChannelName":"16:00",
+          "ChannelName":"working now",
           "ChannelDescription":"Chelsea vs Newcastel",
           "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
           "ChannelLink":"https://stream.live12.ir/hls2/syria1.m3u8",
