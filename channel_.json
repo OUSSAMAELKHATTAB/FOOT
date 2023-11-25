@@ -4,13 +4,7 @@
      {
       "CategoryName":"Football live",
       "ChannelsList":[
-        {
-          "ChannelName":"working now",
-          "ChannelDescription":"Man City  vs Liverpool",
-          "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
-          "ChannelLink":"https://jau7yuwm23cae5nc.cdnreinforce.net:8443/hls/xacw31cgq.m3u8?s=ebRihjQdY1-ptxjBcZk71g&e=1700937361",
-          "Play_In":"app"
-        },
+        
    {
           "ChannelName":"working now",
           "ChannelDescription":"Barcelona vs Rayo Vallecano",
@@ -20,11 +14,11 @@
         },
      
    {
-          "ChannelName":"15:30",
+          "ChannelName":"working now",
           "ChannelDescription":"Dortmund vs Moenchengl adbach",
           "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
-          "ChannelLink":"https://stream.live12.ir/hls2/syria1.m3u8",
-          "Play_In":"player"
+          "ChannelLink":"https://jau7yuwm23cae5nc.cdnreinforce.net:8443/hls/t8v9vt5bg.m3u8?s=_9hdNvr_Utjpnu-rdUU6zA&e=1700944265",
+          "Play_In":"app"
         },
      {
           "ChannelName":"working now",
