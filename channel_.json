@@ -4,27 +4,13 @@
      {
       "CategoryName":"Football live",
       "ChannelsList":[ 
-        
-        {
-          "ChannelName":"working now",
-          "ChannelDescription":"Valencia vs Celta Vigo",
-          "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
-          "ChannelLink":"https://jau7yuwm23cae5nc.cdnreinforce.net:8443/hls/o4fqysq0w1l.m3u8?s=gVWAk-wUV0HZrrAZdtCNwg&e=1700951386",
-          "Play_In":"app"
-        },
-        {
-          "ChannelName":"working now",
-          "ChannelDescription":"Clirmon vs Lance",
-          "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
-          "ChannelLink":"https://jau7yuwm23cae5nc.cdnreinforce.net:8443/hls/4m8j1.m3u8?s=AiWI5wvBwhkV-0ftIvyEPw&e=1700951442",
-          "Play_In":"app"
-        },
+      
       {
-          "ChannelName":"working now",
-          "ChannelDescription":"Napoli vs Atalanta",
+          "ChannelName":"pause",
+          "ChannelDescription":"test vs test",
           "ChannelLogo":"https://png.pngtree.com/png-vector/20210701/ourmid/pngtree-live-streaming-logo-icon-png-image_3541623.jpg",
           "ChannelLink":"https://jau7yuwm23cae5nc.cdnreinforce.net:8443/hls/t8v9vt5bg.m3u8?s=c2LHH6vWoAtWSBdhRsDv0w&e=1700953718",
-          "Play_In":"app"
+          "Play_In":"player"
         },
       ]
 
